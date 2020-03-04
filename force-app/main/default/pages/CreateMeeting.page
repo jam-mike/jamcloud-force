@@ -1,0 +1,18 @@
+<apex:page standardController="Account" extensions="CreateMeeting">
+
+    <apex:slds/>
+    
+
+        <p>
+            Test Page.
+
+            Click the button below to hit the endpoint.
+        </p>
+
+        Here's your meeting url:
+        <br/>
+        <apex:variable value="{!createMeeting}" var="url"/>
+        <a href="{!url}" target="_blank">{!url}</a>
+
+
+</apex:page>
