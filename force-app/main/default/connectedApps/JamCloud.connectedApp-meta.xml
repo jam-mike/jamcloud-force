@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>mike.bernard@jamcloud.io</contactEmail>
+    <label>JamCloud</label>
+    <oauthConfig>
+        <callbackUrl>https://putsreq.com/0ZWcCoOup9aBHUYg4kQt</callbackUrl>
+        <consumerKey>3MVG9_7ddP9KqTzeCiWY_WXBUKflXlnG1VnXAYA2SEFuk2yjkLz4EHGmFFgTI0hOq7BWfU76GcZxWS3B4onaZ</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
