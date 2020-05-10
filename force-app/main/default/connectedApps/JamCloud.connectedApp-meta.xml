@@ -3,7 +3,7 @@
     <contactEmail>mike.bernard@jamcloud.io</contactEmail>
     <label>JamCloud</label>
     <oauthConfig>
-        <callbackUrl>https://ptu21cf23f.execute-api.us-east-1.amazonaws.com/prod/jamauth</callbackUrl>
+        <callbackUrl>https://jamcloud.io/bigbluebutton/api/oauthCallback</callbackUrl>
         <isAdminApproved>false</isAdminApproved>
         <scopes>Api</scopes>
         <scopes>Web</scopes>
